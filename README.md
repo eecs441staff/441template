@@ -131,20 +131,3 @@ source env/bin/activate
 ```
 
 Then retry the previous command.
-
-
-### Client
-
-in `client`
-```
-pip install -r requirements.txt
-pip install -e .
-```
-
-python
-```
-import handotate as h
-
-api = h.API()
-h.create_tasks(description="", type="IMAGE", url="", schema="file.json")
-```

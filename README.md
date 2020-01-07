@@ -19,9 +19,9 @@ Short description for high-level folders, for example
     ├── manage.py
 ```
 
-## Installation
+# Installation
 
-### Android
+## Android
 
 Install [Java 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and [Android Studio](https://developer.android.com/studio/install).
 

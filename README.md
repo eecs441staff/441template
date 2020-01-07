@@ -12,9 +12,9 @@ Short description for high-level folders, for example
 
 (Optionally) Use tree command line to list all files
 
-'''
+```
 ├── django_project
     ├── django_project (folder)
     ├── nwsl_app (folder)
     ├── manage.py
-'''
+```

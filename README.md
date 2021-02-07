@@ -1,4 +1,4 @@
-# UM EECS441 Template README
+# UM EECS441 Template
 
 <!--
 | Gradesheet | Team Info |
@@ -10,13 +10,15 @@
 [about]: https://github.com/UM-EECS-441/labs/blob/master/docs/img/admin/team.png "Team Info"
 -->
 
-| Demo  |  Wiki |  Trello  |
-|:-----:|:-----:|:--------:|
-|[<img src="https://eecs441.eecs.umich.edu/img/admin/video.png">][demo_page]|[<img src="https://eecs441.eecs.umich.edu/img/admin/wiki.png">][wiki_page]|[<img src="https://eecs441.eecs.umich.edu/img/admin/trello.png">][process_page]|
+| Gradesheet | Team Info | Demo  |  Wiki |  Trello  |
+|:----------:|:---------:|:-----:|:-----:|:--------:|
+|[<img src="https://eecs441.eecs.umich.edu/img/admin/grades3.png">][grade_sheet]|[<img src="https://eecs441.eecs.umich.edu/img/admin/team.png">][team_contract]|[<img src="https://eecs441.eecs.umich.edu/img/admin/video.png">][demo_page]|[<img src="https://eecs441.eecs.umich.edu/img/admin/wiki.png">][wiki_page]|[<img src="https://eecs441.eecs.umich.edu/img/admin/trello.png">][process_page]|
 
 ![Elevator Pitch](https://eecs441.eecs.umich.edu/img/F20/musicsharingnetwork.png)
 ![Team](https://eecs441.eecs.umich.edu/img/F20/iosdevs_team.png)
 
+[grade_sheet] https://docs.google.com/spreadsheets/d/1X3MaZ2m3UsdjcJARJQvdTjxElceTxeJx2uY92idq3xk/edit?usp=sharing
+[team_contract] https://docs.google.com/document/d/1YL6lX2RmaLtHDfeRCVXXIFOjAGVMu9O5j3gxOPFHA2Y/edit?usp=sharing
 [demo_page]: https://www.youtube.com/watch?v=VIcOGEhsXGM&feature=youtu.be
 [wiki_page]: https://github.com/eecs441staff/441template/wiki
 [process_page]: https://trello.com/b/MyPhHMGd/441template

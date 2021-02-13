@@ -1,4 +1,4 @@
-# UM EECS441 Template
+# UM EECS441§3&4 Template
 
 | Gradesheet | Team Info | Demo  |  Wiki |  Trello  |
 |:----------:|:---------:|:-----:|:-----:|:--------:|
